@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Tokeningizni shu yerga qo'ying
-TOKEN = "BU_YERGA_TOKENINGIZNI_QOYING"
+TOKEN = "7994452640:AAGx4hiUmVrhZkfBByU2AJNQTqcByZCzWA0"
 
 logging.basicConfig(level=logging.INFO)
 
